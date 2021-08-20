@@ -1,8 +1,10 @@
 <p> 
  <h1>Salve! Eu sou valter Silva.</h1>
- desenvolvedor web back-end.
+ Desenvolvedor <strong>web</strong> back-end. Tenho buscado evoluir na área como fulstack.
  <br>
- abaixo algumas das técnologias das quais tenho buscado evoluir.
+ Focando em java, javascript e toda a stack de ferramentas relacionadas.
+ <br>
+ abaixo algumas das técnologias que tenho familiaridade e procurado evoluir.
 </p>
  
  <div>
