@@ -1,5 +1,5 @@
 ## Salve! Eu sou valter Silva.
- Estudando javascript
+ desenvolvedor web back-end
 
  <div>
   <a href="https://github.com/valterchess">
