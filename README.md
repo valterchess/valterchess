@@ -1,5 +1,5 @@
 <p> 
- <h1>Salve! Eu sou valter Silva.</h1>
+ <h1>Olá! Eu sou valter Silva.</h1>
  Desenvolvedor <strong>web</strong> back-end. Tenho buscado evoluir na área como fulstack.
  <br>
  Focando em java, javascript e toda a stack de ferramentas relacionadas.
