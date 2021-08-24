@@ -1,10 +1,12 @@
 <p> 
- <h1>Olá! Eu sou valter Silva.</h1>
- Desenvolvedor <strong>web</strong> back-end. Tenho buscado evoluir na área como fulstack.
- <br>
- Focando em java, javascript e toda a stack de ferramentas relacionadas.
- <br>
- abaixo algumas das técnologias que tenho familiaridade e procurado evoluir.
+ <h1>Olá! Eu sou valter Silva!</h1>
+ <li>
+    <ul>Desenvolvedor web back-end.</ul>
+    <ul>Atualmente Focado em java.</ul>
+    <ul>Estudando Spring-boot, MySQL, JavaScrip, HTML e CSS.</ul>
+    <ul>Estou em busca de oportunidades.</ul>
+    <ul>Tenho buscado evoluir na área como fulstack.</ul>
+ </li>
 </p>
  
  <div>
@@ -20,3 +22,4 @@
   <img align="center" alt="Valter-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Valter-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
+
