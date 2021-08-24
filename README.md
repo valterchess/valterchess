@@ -1,12 +1,10 @@
 <p> 
  <h1>Olá! Eu sou valter Silva!</h1>
- <li>
-    <ul>Desenvolvedor web back-end.</ul>
-    <ul>Atualmente Focado em java.</ul>
-    <ul>Estudando Spring-boot, MySQL, JavaScrip, HTML e CSS.</ul>
-    <ul>Estou em busca de oportunidades.</ul>
-    <ul>Tenho buscado evoluir na área como fulstack.</ul>
- </li>
+ <li>Desenvolvedor web back-end.</li>
+ <li>Atualmente Focado em java.</li>
+ <li>Estudando Spring-boot, MySQL, JavaScrip, HTML e CSS.</li>
+ <li>Estou em busca de oportunidades.</ul>
+ <li>Tenho buscado evoluir na área como fulstack.</li>
 </p>
  
  <div>
