@@ -1,10 +1,8 @@
 <p> 
  <h1>Olá! Eu sou valter Silva!</h1>
- <li>Desenvolvedor web back-end.</li>
- <li>Atualmente Focado em java.</li>
+ <li>Aluno da Generation Brasil</li>
+ <li>Atualmente Focado em desenvolvimento web</li>
  <li>Estudando Spring-boot, MySQL, JavaScript, HTML e CSS.</li>
- <li>Estou em busca de oportunidades.</ul>
- <li>Tenho buscado evoluir na área como fulstack.</li>
 </p>
  
  <div>
