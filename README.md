@@ -3,7 +3,7 @@
  <li>Aluno da Generation Brasil</li>
  <li>Atualmente Focado em desenvolvimento web com java</li>
  <li>Estudando java, Spring-boot, MySQL, JavaScript, HTML e CSS.</li>
- <li>Iniciando os estudos e conhecendo a documentação do typescript</li>
+ <li>Iniciando os estudos e conhecendo a documentação do TypeScript</li>
 </p>
  
  <div>
