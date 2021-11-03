@@ -20,7 +20,4 @@
   <img align="center" alt="Valter-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Valter-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
- <div>
- <p align="center">total de visitas ao perfil</p>
- <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/valterchess/count.svg" /></p>
-</div>
+
