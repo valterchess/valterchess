@@ -22,7 +22,6 @@
   <img align="center" alt="Valter-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Valter-sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Valter-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-   <img align="center" alt="Valter-scrum" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scrum/scrum-original.svg">
  <br>
  <br>
  <p align="center"> visitas ao perfil a partir de 03-11-2021</p>
