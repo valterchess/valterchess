@@ -18,8 +18,8 @@
  <img align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Valter-intellij" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
  <img align="center" alt="Valter-vscode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- <h5>versionamento</h5>
- <h5>IDEs e editores</h5>
+ <h5>versionamento     IDEs e editores</h5>
+ 
  </br>
   <img align="center" alt="Valter-sql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Valter-java" height="37" width="47" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
