@@ -1,5 +1,5 @@
 <p> 
- <h1>Olá! Eu sou valter Silva!</h1>
+ <h1>Olá! Eu sou Valter Silva!</h1>
  <li>Aluno da Generation Brasil</li>
  <li>Atualmente Focado em desenvolvimento web com java</li>
  <li>Estudando java, Spring-boot, MySQL, JavaScript, HTML e CSS.</li>
