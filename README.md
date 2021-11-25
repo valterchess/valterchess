@@ -15,16 +15,6 @@
   <img align="center" alt="Valter-ts" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">*
   <img align="center" alt="Valter-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Valter-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-
- <div>
-  <a href="https://github.com/valterchess">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=valterchess&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterchess&layout=compact&langs_count=7&theme=light"/>
-</div>
-
-<div style="display: inline_block">
- </br>
- <img align="center" alt="Valter-git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Valter-git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 </div>
