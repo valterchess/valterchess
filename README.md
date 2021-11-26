@@ -1,9 +1,11 @@
 <p> 
  <h1>Olá! Eu sou Valter Silva!</h1>
- <li>Aluno da Generation Brasil</li>
- <li>Atualmente Focado em desenvolvimento web/li>
- <li>Estudando java, Spring-boot, MySQL, JavaScript, HTML e CSS.</li>
- <li>Iniciando os estudos e conhecendo a documentação do TypeScript</li>
+ <ul>
+   <li>Aluno da Generation Brasil</li>
+   <li>Atualmente Focado em desenvolvimento web/li>
+   <li>Estudando java, Spring-boot, MySQL, JavaScript, HTML e CSS.</li>
+   <li>Iniciando os estudos e conhecendo a documentação do TypeScript e do react</li>
+ </ul>
 </p>
  <div>
  <img align="center" alt="Valter-intellij" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
