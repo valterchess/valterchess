@@ -7,6 +7,14 @@
    <li>Iniciando os estudos e conhecendo a documentação do TypeScript e do react</li>
  </ul>
 </p>
+
+
+<div align="center">
+  <a href="https://github.com/tholivera">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=valterchess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterchess&layout=compact&langs_count=7&theme=dark"/>
+</div>
  <div>
  <img align="center" alt="Valter-intellij" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
  <img align="center" alt="Valter-vscode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
