@@ -4,6 +4,14 @@
    <li>Desenvolvedor Fullstack Java</li>
    <li>Atualmente Focado em desenvolvimento web</li>
    <li>Em Constante evolução desenvolvendo em java, Spring-boot, MySQL, React e outras tecnologias</li>
+   <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil</li>
+   <a href="https://urbanize.vercel.app/home" target="_blank">
+       <img align="center" alt="urbanize" height="35" width="45" src="https://i.imgur.com/mqC0VS2.png">
+   </a>
+   <a href="https://github.com/urbanize" target="_blank">
+       <img align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+   </a>
+   <li>E seu código fonte aqui, no github<li>
  </ul>
 </p>
 
