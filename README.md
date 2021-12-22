@@ -10,7 +10,7 @@
    </a> 
  <li>E seu código fonte<li>
    <a href="https://github.com/urbanize" target="_blank">
-       <img align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" target="_blank">
+       <img border-radious="12%" align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" target="_blank">
    </a>
    
  </ul>
