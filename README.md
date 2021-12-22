@@ -1,10 +1,9 @@
 <p> 
  <h1>Olá! Eu sou Valter Silva!</h1>
  <ul>
-   <li>Aluno da Generation Brasil</li>
+   <li>Desenvolvedor Fullstack Java</li>
    <li>Atualmente Focado em desenvolvimento web</li>
-   <li>Estudando java, Spring-boot, MySQL, JavaScript, HTML e CSS.</li>
-   <li>Iniciando os estudos e conhecendo a documentação do TypeScript e do react</li>
+   <li>Em Constante evolução desenvolvendo em java, Spring-boot, MySQL, React e outras tecnologias</li>
  </ul>
 </p>
 
