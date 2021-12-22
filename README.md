@@ -5,9 +5,6 @@
    <li>Atualmente Focado em desenvolvimento web</li>
    <li>Em Constante evolução desenvolvendo em java, Spring-boot, MySQL, React e outras tecnologias</li>
    <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil</li>
-   <a href="https://urbanize.vercel.app/home" target="_blank">
-       <img align="center" alt="urbanize" height="25" width="65" src="https://i.imgur.com/mqC0VS2.png" target="_blank">
-   </a>
  <li>E seu código fonte<li>
    <a href="https://github.com/urbanize" target="_blank">
        <img align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" target="_blank">
@@ -23,9 +20,10 @@
     
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterchess&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  
  <a href="https://www.linkedin.com/in/valter-silva-5a44b1171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+ <a href="https://urbanize.vercel.app/home" target="_blank">
+       <img align="center" alt="urbanize" height="25" width="65" src="https://i.imgur.com/mqC0VS2.png" target="_blank">
+   </a> 
 <div> 
  <img align="center" alt="Valter-intellij" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
  <img align="center" alt="Valter-vscode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
