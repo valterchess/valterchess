@@ -8,8 +8,7 @@
  <a href="https://urbanize.vercel.app/home" target="_blank">
        <img align="center" alt="urbanize" height="25" width="85" src="https://i.imgur.com/mqC0VS2.png" target="_blank">
    </a> 
- <li>E seu código fonte<li>
-   <a href="https://github.com/urbanize" target="_blank">
+  <a href="https://github.com/urbanize" target="_blank">
        <img border-radious="12%" align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" target="_blank">
    </a>
    
