@@ -6,7 +6,7 @@
    <li>Em Constante evolução desenvolvendo em java, Spring-boot, MySQL, React e outras tecnologias</li>
    <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil</li>
    <a href="https://urbanize.vercel.app/home" target="_blank">
-       <img align="center" alt="urbanize" height="35" width="65" src="https://i.imgur.com/mqC0VS2.png">
+       <img align="center" alt="urbanize" height="25" width="65" src="https://i.imgur.com/mqC0VS2.png">
    </a>
  <li>E seu código fonte aqui, no github<li>
    <a href="https://github.com/urbanize" target="_blank">
