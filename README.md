@@ -1,7 +1,7 @@
 <p> 
  <h1>Olá! Eu sou Valter Silva!</h1>
  <ul>
-   <li>Desenvolvedor Fullstack Java React</li>
+   <li>Desenvolvedor Full Stack Java | React</li>
    <li>Atualmente Focado em desenvolvimento web</li>
    <li>Em Constante evolução desenvolvendo em java, Spring-boot, MySQL, React e outras tecnologias</li>
    <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil</li>
