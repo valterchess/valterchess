@@ -3,9 +3,9 @@
  <ul>
    <li>Desenvolvedor Full Stack Java | React</li>
    <li>Atualmente Focado em desenvolvimento web</li>
-   <li>Blog pessoal <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>  </li>
+   <li>Blog pessoal - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>  </li>
    
-   <li>Em Constante evolução desenvolvendo em java, Spring-boot, MySQL, React e outras tecnologias</li>
+   <li>Em Constante evolução desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias</li>
    <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil</li>
  <a href="https://urbanize.vercel.app/home" target="_blank">
        <img align="center" alt="urbanize" height="25" width="85" src="https://i.imgur.com/mqC0VS2.png" target="_blank">
