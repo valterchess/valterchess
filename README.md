@@ -1,21 +1,19 @@
 <p> 
  <h1>Olá! Eu sou Valter Silva!</h1>
  <ul>
-   <li>Desenvolvedor Full Stack Java | React</li>
-   <li>Atualmente Focado em desenvolvimento web</li>
-   <li>Blog pessoal - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a></li>
-   
-   <li>Em Constante evolução. Desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias</li>
-   <li>Aprendendo python e AWS<li>
-   <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil</li>
+   <li>Desenvolvedor Full Stack Java | React
+   <li>Atualmente Focado em desenvolvimento web
+   <li>Blog pessoal - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
+   <li>Em Constante evolução. Desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias
+   <li>Aprendendo python e AWS
+   <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil
+ </ul>
  <a href="https://urbanize.vercel.app/home" target="_blank">
        <img align="center" alt="urbanize" height="25" width="85" src="https://i.imgur.com/mqC0VS2.png" target="_blank">
    </a> 
   <a href="https://github.com/urbanize" target="_blank">
        <img border-radious="12%" align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" target="_blank">
    </a>
-   
- </ul>
 </p>
 
 
