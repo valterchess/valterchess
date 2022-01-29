@@ -19,7 +19,7 @@
 
 <div>
   <a href="https://github.com/valterchess">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=valterchess&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=valterchess&show_icons=true&theme=dark&include_all_commits*100=true&count_private=true"/>
     
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterchess&layout=compact&langs_count=7&theme=dark"/>
 </div>
