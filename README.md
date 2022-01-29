@@ -1,8 +1,7 @@
 <p> 
  <h1>Olá! Eu sou Valter Silva!</h1>
  <ul>
-   <li>Desenvolvedor Web Java
-   <li>Atualmente Focado em desenvolvimento web | back-end
+   <li>Desenvolvedor Web Java | back-end | fullstack
    <li>Blog pessoal - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
    <li>Em Constante evolução. Desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias
    <li>Aprendendo python e AWS
