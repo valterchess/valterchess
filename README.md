@@ -3,9 +3,10 @@
  <ul>
    <li>Desenvolvedor Web Java | back-end | fullstack
    <li>Blog pessoal - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
-    <li>Cronometro - <a href="https://cronometro-vert.vercel.app/" >
-                           <img src="https://github.com/valterchess/cronometro/blob/main/public/relogio.png">
-                     </a>
+    <li>Cronometro -
+     <a href="https://cronometro-vert.vercel.app/" >
+       <img align="center" alt="Cronometro" height="20" width="30" src="https://github.com/valterchess/cronometro/blob/main/public/relogio.png">
+     </a>
    <li>Em Constante evolução. Desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias
    <li>Aprendendo python e AWS
    <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil
