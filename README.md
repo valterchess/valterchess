@@ -7,11 +7,7 @@
      <a href="https://cronometro-vert.vercel.app/" >
        <img align="center" alt="Cronometro" height="20" width="20" src="https://github.com/valterchess/cronometro/blob/main/public/relogio.png">
      </a>
-    
-     <a href="https://xadrez-react.vercel.app" >
-       Xadrez
-     </a>
-     
+    <li>Xadrez - <a href="https://xadrez-react.vercel.app/" target="_blank"> https://xadrez-react.vercel.app/  </a>
      
    <li>Em Constante evolução. Desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias
    <li>Aprendendo python e AWS
