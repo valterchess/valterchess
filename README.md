@@ -10,7 +10,7 @@
     <li>Xadrez - <a href="https://xadrez-react.vercel.app/" target="_blank"> https://xadrez-react.vercel.app/  </a>
      
    <li>Em Constante evolução. Desenvolvendo em java e spring-boot,SQL e MySQL, TypeScript e React e outras tecnologias
-   <li>Aprendendo python e AWS
+   <li>Aprendendo python, scala, reactive architecture, microservices, AWS e outras tecnologias e ferramentas e suas features
    <li>Conheça o meu projeto desenvolvido com o grupo 5, no bootcamp da generation Brasil
  </ul>
  <a href="https://urbanize.vercel.app/home" target="_blank">
