@@ -1,10 +1,10 @@
 <p> 
  <h1>Olá! Eu sou Valter Silva</h1>
- <ul>
-   <li>Desenvolvedor Web Java | back-end | fullstack
-    <a href="https://gitlab.com/valterchess" >
+ <a href="https://gitlab.com/valterchess" >
         <img align="center" alt="GitLab" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     </a>
+ <ul>
+   <li>Desenvolvedor Web Java | back-end | fullstack
    <li>Portfolio (em manutenção) - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
     <li>Cronometro -
      <a href="https://cronometro-vert.vercel.app/" >
