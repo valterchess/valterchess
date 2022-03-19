@@ -2,6 +2,9 @@
  <h1>Olá! Eu sou Valter Silva</h1>
  <ul>
    <li>Desenvolvedor Web Java | back-end | fullstack
+    <a href="https://gitlab.com/valterchess" >
+        <img align="center" alt="GitLab" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+    </a>
    <li>Portfolio (em manutenção) - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
     <li>Cronometro -
      <a href="https://cronometro-vert.vercel.app/" >
@@ -29,9 +32,6 @@
    
 </div>
  <a href="https://www.linkedin.com/in/valter-silva-5a44b1171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://gitlab.com/valterchess" >
- <img align="center" alt="GitLab" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-    </a>
 <div> 
  <img align="center" alt="Valter-intellij" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
  <img align="center" alt="Valter-vscode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
