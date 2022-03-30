@@ -16,7 +16,7 @@
   <a href="https://github.com/valterchess">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=valterchess&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valterchess&layout=compact&langs_count=8&theme=gotham"/>
-   
+   <div>
  <img align="center" alt="Valter-intellij" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
  <img align="center" alt="Valter-vscode" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Valter-sql" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
@@ -34,4 +34,5 @@
   <img align="center" alt="Valter-git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Valter-github" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
  <img align="center" alt="Valter-vscode" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg">
+   </div>
 </div>
