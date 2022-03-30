@@ -1,9 +1,11 @@
 
  <h1>Olá! Eu sou Valter Silva</h1>
  <a href="https://gitlab.com/valterchess" >
-        <img align="center" alt="GitLab" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-    <a href="https://www.linkedin.com/in/valter-silva-5a44b1171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    </a>
+        <img align="center" alt="GitLab__logo" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
+    <a href="https://www.linkedin.com/in/valter-silva-5a44b1171/" target="_blank">
+      <img alt="linkedin__logo" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" target="_blank">
+     </a>
+ </a>
     
  <ul>
    <li>Desenvolvedor Web Java | back-end | fullstack
