@@ -5,7 +5,7 @@
     </a>
  <ul>
    <li>Desenvolvedor Web Java | back-end | fullstack
-   <li>Portfolio (em manutenção) - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
+   <li>Portfolio - <a href="https://valterchess.vercel.app/home" target="_blank"> https://valterchess.vercel.app/  </a>
     <li>Cronometro -
      <a href="https://cronometro-vert.vercel.app/" >
        <img align="center" alt="Cronometro" height="20" width="20" src="https://github.com/valterchess/cronometro/blob/main/public/relogio.png">
